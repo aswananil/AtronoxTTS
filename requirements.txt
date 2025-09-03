@@ -4,3 +4,4 @@ pyttsx3
 PyAudio
 llama-cpp-python==0.3.16
 diskcache==5.6.3
+soundfile==0.13.1
